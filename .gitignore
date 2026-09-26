@@ -1,0 +1,8 @@
+# Exclude the large 362MB dataset
+youtube_global_10_countries_cleaned.csv
+
+# Exclude virtual environments & cache
+.idea/
+.venv/
+__pycache__/
+*.pyc
